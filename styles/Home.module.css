@@ -1,0 +1,12 @@
+.main {
+display: grid;
+grid-template-columns: auto auto auto;
+padding: 0 100px;
+}
+
+
+.japan_pic{
+  justify-content: center;
+  display: flex;
+  padding-bottom: 30px;
+}
